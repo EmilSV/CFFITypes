@@ -1,0 +1,6 @@
+words = [
+    "Intptr",
+    "Ptrdiff",
+    "Schar",
+    "Uchar",
+]
